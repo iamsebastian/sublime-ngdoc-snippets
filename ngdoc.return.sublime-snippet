@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@private
+]]></content>
+    <tabTrigger>@pri</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @private</description>
+</snippet>

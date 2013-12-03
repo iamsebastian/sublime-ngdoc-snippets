@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@return {${0:type}}
+]]></content>
+    <tabTrigger>@ret</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @return</description>
+</snippet>

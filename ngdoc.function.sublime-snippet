@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@param {${0:type}}
+]]></content>
+    <tabTrigger>@par</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @parameter</description>
+</snippet>

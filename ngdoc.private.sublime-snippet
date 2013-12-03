@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@element ANY
+]]></content>
+    <tabTrigger>@ele</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @element</description>
+</snippet>

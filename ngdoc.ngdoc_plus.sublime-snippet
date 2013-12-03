@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+* $ngdoc ${0:directive|filter|function|overview|method|property|service}
+* @name ${1:module.method:attribute|AUTO|AUTO.$ngservice:$method}
+*
+* ${2:@requires $service($log,...)}
+*
+* ${3:@propertyOf ${4:angular.Module}}
+*
+* ${5:@methodOf ${6:angular.Module|AUTO.$method}}
+* 
+* ${7:@function}
+*
+* ${8:@element ANY}
+*
+* ${9:@description}
+]]></content>
+    <tabTrigger>@ngd+</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - initiating with @name, @func, @descr</description>
+</snippet>

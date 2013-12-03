@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@name ${0:foo.bar:attr}
+]]></content>
+    <tabTrigger>@nam</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @name</description>
+</snippet>
