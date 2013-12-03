@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-@private
+@return {${0:type}}
 ]]></content>
-    <tabTrigger>@pri</tabTrigger>
+    <tabTrigger>@ret</tabTrigger>
     <scope>source.js</scope>
-    <description>$ngdoc - @private</description>
+    <description>$ngdoc - @return</description>
 </snippet>

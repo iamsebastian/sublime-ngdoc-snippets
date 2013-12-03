@@ -14,8 +14,12 @@
 * ${8:@element ANY}
 *
 * ${9:@description}
+*
+* ${10:@param {${11:type}}}
+*
+* ${12:@return {${13:type}}}
 ]]></content>
     <tabTrigger>@ngd+</tabTrigger>
     <scope>source.js</scope>
-    <description>$ngdoc - initiating with @name, @func, @descr</description>
+    <description>$ngdoc - initiating complete skeleton with all @ngdoc-properties</description>
 </snippet>

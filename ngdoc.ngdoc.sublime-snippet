@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-@name ${0:foo.bar:attr}
+@ngdoc
 ]]></content>
-    <tabTrigger>@nam</tabTrigger>
+    <tabTrigger>@ngd</tabTrigger>
     <scope>source.js</scope>
-    <description>$ngdoc - @name</description>
+    <description>$ngdoc - @ngdoc</description>
 </snippet>
