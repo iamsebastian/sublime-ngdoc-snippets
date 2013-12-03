@@ -4,7 +4,7 @@ sublime-ngdoc-snippets
 Just a small collection of snippets for creating an Angular/*ngdoc* related documentation.
 
 You should use it in combination with [DocBlockr](https://sublime.wbond.net/packages/DocBlockr), to get a nice workflow.
-Let DocBlockr create the documentation with `/** » [TAB]` and then add your ngdoc snippets.
+Let DocBlockr create the documentation with `/**` » `[TAB]` and then add your ngdoc snippets.
 
 Snippets
 ========
