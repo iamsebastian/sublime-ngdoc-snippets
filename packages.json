@@ -3,7 +3,6 @@
     "packages": [
         {
             "name": "ngdoc snippets",
-            "description": "A small collection of snippets for creating some angular related documentation.",
             "author": "Sebastian Blei (iamsebastian)",
             "homepage": "http://www.blei.in",
             "details": "https://github.com/iamsebastian/sublime-ngdoc-snippets",
