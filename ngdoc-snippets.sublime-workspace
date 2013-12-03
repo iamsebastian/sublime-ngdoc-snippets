@@ -1,0 +1,2262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$l",
+				"$log.log	AngularJS"
+			],
+			[
+				"border-",
+				"border-collapse"
+			],
+			[
+				"fac",
+				"factoryContent"
+			],
+			[
+				"$roo",
+				"$rootScope"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"pro",
+				"productLineId"
+			],
+			[
+				"com",
+				"comm-html	Comment - HTML comment"
+			],
+			[
+				"$e",
+				"$digest	AngularJS"
+			],
+			[
+				"ng",
+				"ng-model	AngularJS"
+			],
+			[
+				"pa",
+				"phantomjs"
+			],
+			[
+				"key",
+				"key	CSS - @keyframes {}"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"exibitors",
+				"exhibitorsName"
+			],
+			[
+				"exhib",
+				"exhibitorsEntry"
+			],
+			[
+				"exhi",
+				"exhibitor_id"
+			],
+			[
+				"und",
+				"unbind	.unbind()"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"de",
+				"delay	.delay()"
+			],
+			[
+				"lo",
+				"log	JS - Log to console"
+			],
+			[
+				"res",
+				"resize	.resize"
+			],
+			[
+				"cl",
+				"click	click"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"galleryD",
+				"galleryDetailDivClickRight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"if",
+				"if	JS - if"
+			],
+			[
+				"urlNew",
+				"urlNewPhotoLeft"
+			],
+			[
+				"urlNewO",
+				"urlNewPhotoLeft"
+			],
+			[
+				"urlNewPhotoLeft",
+				"urlNewPhotoLeft"
+			],
+			[
+				"urlNewPhoto",
+				"urlNewPhotoOrigURL"
+			],
+			[
+				"urlNewP",
+				"urlNewPhotoOnHost"
+			],
+			[
+				"gallery",
+				"galleryZoomedImage"
+			],
+			[
+				"i",
+				"if	JS - if"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"t",
+				"text-indent"
+			],
+			[
+				"h",
+				"hyp	CSS - hyphens: auto;"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"f",
+				"fon	CSS - font: 1em/1.5 sans-serif;"
+			],
+			[
+				"box",
+				"box-shadow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ngdoc.name.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.ngdoc_plus.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.ngdoc.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.parameter.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.private.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.propertyOf.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.requires.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.return.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "packages.json",
+			"settings":
+			{
+				"buffer_size": 612,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.description.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.element.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.function.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ngdoc.methodOf.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rob",
+				"Set Syntax: Robot Framework .txt"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"robv",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"rbo",
+				"Set Syntax: Robot Framework .txt"
+			],
+			[
+				"ro",
+				"Set Syntax: Robot Framework .txt"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"p",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: lorem - HTML Kitchen sink"
+			],
+			[
+				"robo",
+				"Set Syntax: Robot Framework .txt"
+			],
+			[
+				"gith",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"github",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"boder-style",
+				"Snippet: border-style:dot-dot-dash"
+			],
+			[
+				"border-style",
+				"Snippet: border-style:groove"
+			],
+			[
+				"dashed",
+				"Snippet: border-style:dashed"
+			],
+			[
+				"table",
+				"Snippet: <table>"
+			],
+			[
+				"linear",
+				"Snippet: CSS - background-image: linear-gradient();"
+			],
+			[
+				"html comm",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"pointer",
+				"Snippet: cursor:pointer"
+			],
+			[
+				"data",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"rgb",
+				"Snippet: rgb()"
+			],
+			[
+				"Lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"mark html",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"markdo ex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"githu",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"tetx",
+				"Snippet: text-justify"
+			],
+			[
+				"text",
+				"Snippet: text-align"
+			],
+			[
+				"opac",
+				"Snippet: opacity"
+			],
+			[
+				"opaci",
+				"Snippet: -ms-filter:opacity"
+			],
+			[
+				"anim",
+				"Snippet: CSS - animation: ;"
+			],
+			[
+				"ani",
+				"Snippet: animation"
+			],
+			[
+				"hmtl5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"margin",
+				"Snippet: CSS - margin: 0;"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"backgr",
+				"Snippet: background-size:contain"
+			],
+			[
+				"com",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"commen",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"css com",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"fon	",
+				"Snippet: CSS - font: 1em/1.5 sans-serif;"
+			],
+			[
+				"htm",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"inst pack",
+				"Package Control: Install Package"
+			],
+			[
+				"media",
+				"Snippet: CSS - @media {}"
+			],
+			[
+				"comme",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"show",
+				"Snippet: show"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery.extend"
+			],
+			[
+				"key",
+				"Snippet: CSS - @keyframes {}"
+			],
+			[
+				"css",
+				"Snippet: CSS - font-family: sans-serif;"
+			],
+			[
+				"font",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"lint er",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"lint ",
+				"SublimeLint: Report (Open Files)"
+			],
+			[
+				"lint err",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lint",
+				"SublimeLint: Report (Open Files)"
+			],
+			[
+				"erro",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"error",
+				"SublimeLint: Next Error"
+			],
+			[
+				"comm-html",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 443.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/Robot Framework/Default (OSX).sublime-mousemap",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/Robot Framework/Default (OSX).sublime-keymap",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/country_overview/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/co2_filter/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/car_info_co2_slider/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/select_modelline/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/car_competition/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/_exec_local.sh",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/car_competition/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/country_overview/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/common.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/global.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/car_info/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/ios/car_competition/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/select_model/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/menu/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/menu/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/select_model/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/search_model/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/search_model/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/ios/select_model/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/car_info/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/global.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/car_info_co2_slider/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/ios/car_info/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/ios/common.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/ios/search_model/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/ios/car_info_co2_slider/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/remember_credentials/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/disclaimer/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/menu_configuration/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/login/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/select_brand/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/select_generation/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/select_brand/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/select_modelline/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-web/app/views/login.html",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/login/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/select_generation/scenarios.txt",
+		"/Users/sblei/GIT/bmwtax-web/app/views/brandChoice.html",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/sblei/GIT/bmwtax-fat/tests/web/select_productline/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/scenarios/select_productline/scenarios.txt",
+		"/Users/sblei/Projects/octopress/Rakefile",
+		"/Users/sblei/Projects/octopress/plugins/config_tag.rb",
+		"/Users/sblei/Projects/octopress/_config.yml",
+		"/Users/sblei/.zshrc",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/User/untitled",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/User/untitled1.py",
+		"/Users/sblei/GIT/bmwtax-web/app/views/modelLineChoice.html",
+		"/Users/sblei/GIT/bmwtax-web/test/robots/003.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/ios/select_productline/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-fat/tests/ios/select_brand/keywords.txt",
+		"/Users/sblei/GIT/bmwtax-web/test/robots/001.txt",
+		"/Users/sblei/GIT/bmwtax-web/test/robots/002.txt",
+		"/Users/sblei/GIT/bmwtax-web/app/scripts/controllers/login.js",
+		"/Users/sblei/GIT/bmwtax-web/.gitignore",
+		"/Users/sblei/GIT/bmwtax-web/app/scripts/config.js",
+		"/Users/sblei/GIT/bmwtax-web/app/scripts/controllers/brandChoice.js",
+		"/Users/sblei/GIT/bmwtax-web/app/styles/brandChoice.css",
+		"/Users/sblei/GIT/bmwtax-web/app/scripts/controllers/main.js",
+		"/Users/sblei/GIT/bmwtax-web/app/styles/modelLineChoice.css",
+		"/Users/sblei/GIT/bmwtax-web/app/scripts/controllers/modelLineChoice.js",
+		"/Users/sblei/GIT/bmwtax-web/app/index.html",
+		"/Users/sblei/GIT/bmwtax-web/app/scripts/app.js",
+		"/Users/sblei/GIT/bmwtax-web/.jshintrc",
+		"/Users/sblei/GIT/bmwtax-web/.jshintignore",
+		"/Users/sblei/GIT/bmwtax-web/.tmp/styles/modelLineChoice.css",
+		"/Users/sblei/GIT/bmwtax-web/app/bower_components/angular/angular.js",
+		"/Users/sblei/GIT/bmwtax-web/bower.json",
+		"/Users/sblei/GIT/bmwtax-web/.tmp/styles/brandChoice.css",
+		"/Users/sblei/GIT/bmwtax-lib/.tmp/styles/main.css",
+		"/Users/sblei/GIT/bmwtax-web/js/config.js",
+		"/Users/sblei/GIT/bmwtax-web/index.html",
+		"/Users/sblei/GIT/bmwtax-web/doc/SESSION.md",
+		"/Users/sblei/GIT/bmwtax-web/css/style.css",
+		"/Users/sblei/Projects/angularapp/app/index.html",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/sblei/Projects/github/techday-doc2/readme.MD",
+		"/Users/sblei/Projects/github/techday-doc2/README.md",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/User/SideBarGit.sublime-settings",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/sblei/Projects/webapp/app/index.html",
+		"/Users/sblei/Projects/webapp/casperjs/cow.js",
+		"/Users/sblei/Projects/webapp/casperjs/googletesting.js",
+		"/Users/sblei/Projects/webapp/casperjs/test-test.js",
+		"/Users/sblei/Projects/webapp/casperjs/test.js",
+		"/Users/sblei/Projects/webapp/Dalekfile.json",
+		"/Users/sblei/Projects/webapp/mytest3.js",
+		"/Users/sblei/Projects/webapp/mytest2.js",
+		"/Users/sblei/Projects/webapp/mytest.js",
+		"/Users/sblei/Projects/angularapp/mytest3.js",
+		"/Users/sblei/Projects/angularapp/mytest2.js",
+		"/Users/sblei/Projects/angularapp/mytest.js",
+		"/Users/sblei/GIT/mea-master/mea.sublime-project",
+		"/Users/sblei/GIT/mea-master/voting4.html",
+		"/Users/sblei/GIT/mea-master/css/voting.css",
+		"/Users/sblei/GIT/mea-master/voting1.html",
+		"/Users/sblei/GIT/mea-master/exhibitorsDetail.html",
+		"/Users/sblei/GIT/mea-master/script/api-speakerdetail.js",
+		"/Users/sblei/GIT/mea-master/refereeDetail.html",
+		"/Users/sblei/GIT/mea-master/css/customizable.css",
+		"/Users/sblei/GIT/mea-master/css/pages.css",
+		"/Users/sblei/GIT/mea-master/css/exhibitors.css",
+		"/Users/sblei/GIT/mea-master/script/api_exhibitors.js",
+		"/Users/sblei/GIT/mea-master/script/api_exhibitorsDetail.js",
+		"/Users/sblei/GIT/mea-master/voting3.html",
+		"/Users/sblei/GIT/mea-master/voting2.html",
+		"/Users/sblei/GIT/mea-master/script/api-schedule.js",
+		"/Users/sblei/GIT/mea-master/script/orientation.js",
+		"/Users/sblei/GIT/mea-master/script/api-eventdetail.js",
+		"/Users/sblei/GIT/mea-master/panel.html",
+		"/Users/sblei/GIT/mea-master/script/api_voting.js",
+		"/Users/sblei/GIT/mea-master/eventDetail.html",
+		"/Users/sblei/GIT/mea-master/exhibitors.html",
+		"/Users/sblei/GIT/mea-master/index.html",
+		"/Users/sblei/GIT/mea-master/script/api_twitter.js",
+		"/Users/sblei/GIT/mea-master/script/main.js",
+		"/Users/sblei/GIT/mea/node_modules/grunt-contrib-cssmin/README.md",
+		"/Users/sblei/GIT/mea/node_modules/grunt-contrib-compress/README.md",
+		"/Users/sblei/GIT/mea/Gruntfile.js",
+		"/Users/sblei/GIT/mea/voting4.html",
+		"/Users/sblei/GIT/mea/voting3.html",
+		"/Users/sblei/GIT/mea/voting2.html",
+		"/Users/sblei/GIT/mea/voting1.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"`@",
+			"element",
+			"user per",
+			"Do",
+			"{MODEL",
+			"MODEL",
+			"model",
+			"MODEL",
+			"model",
+			"MODEL",
+			"model",
+			"MODEL",
+			"MODEL_GKL",
+			"{MODEL",
+			"MODEL_ALT_YEAR",
+			"MODEL",
+			"{MODEL",
+			"MODEL",
+			"{VEHICLE",
+			"App",
+			"              ${",
+			"not",
+			"country overview",
+			"���",
+			"ANUAL_FEE",
+			"REGISTRATION_FEE",
+			"${PRIVATE_REGISTRATION_FEE}",
+			"ENERATION",
+			"[contains(@class, 'addPopover')]",
+			"}",
+			"REG_NEW",
+			"deleuro",
+			"Get",
+			"Contains",
+			"div",
+			"COUNTRY_ANUAL_FEE",
+			"COUNTRY_REG_FEE",
+			"COUNTRY_",
+			"COUNTRY_REG_FEE",
+			", ",
+			"1584",
+			"contains(@class, 'hoverButton')][][contains(text(), \"Delete\")",
+			"User adds a car",
+			"span",
+			"close",
+			"App shows higher car tax than",
+			"App shows selected car tax",
+			"User selects tax calculation private",
+			"    User selects tax calculation private",
+			"Application shows model information for model",
+			"${",
+			"_CO2_SERIES",
+			"NON",
+			"} ",
+			"${",
+			"normalizes",
+			"xpath=//div[contains(@class, 'hoverButton')][][contains(text(), \"Delete\")]",
+			"}  ",
+			"    ",
+			"   ",
+			"  ",
+			"${",
+			"UC_Precondition User performs different country calculations",
+			"User navigates to the country overview screen",
+			"App shows selected car tax",
+			"App shows selected car tax  ",
+			"adds a",
+			"PRIVATE_REGISTRATION_FEE_NON_SERIES",
+			"GENERATION_NON_SERIES",
+			"${",
+			"COMPANY_",
+			"_COUNTRY",
+			"FIRST_COUNTRY",
+			"FIRST_COUNTRY_REGISTRATION_FEE",
+			"country",
+			"COUNTRY",
+			"country",
+			"COUNTRY",
+			"COMPANY",
+			"COUNTRY",
+			"${",
+			"FIRST",
+			"FIRST_COUNTRY_REGISTRATION_FEE",
+			"FIRST",
+			"first",
+			"FIRST_COUNTRY",
+			"std",
+			"STD",
+			"std",
+			"STD",
+			"std",
+			"PRIVATE",
+			"german",
+			"private",
+			"car competition",
+			" car competition",
+			"//",
+			"DO",
+			"addPopover",
+			"BRAND",
+			"} ",
+			"USER_PROFILE",
+			"PRIVATE_TAX_THREE_YEARS",
+			"PRIVATE_ANUAL_TAX",
+			"PRIVATE_REGISTRATION_FEE",
+			"    \n",
+			" < ",
+			" > ",
+			"${${",
+			" > ",
+			"Wait Until Page Contains                ",
+			"${",
+			"${PRIV_REG_ELEM}",
+			"${CORP_3Y_ELEM}",
+			"${CORP_ANUAL_ELEM}",
+			"${CORP_REG_ELEM}",
+			"${PRIV_3Y_ELEM}",
+			"xpath",
+			"}",
+			" > ",
+			"> ",
+			"PRIV_ANUAL_ELEM",
+			"Evaluate",
+			"PRIVATE_ANUAL_TAX",
+			"PRIVATE_REGISTRATION_FEE",
+			"${PRIVATE_ANUAL_TAX",
+			"App setup",
+			"App Setup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"currentEvents"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ngdoc.name.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ngdoc.ngdoc_plus.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ngdoc.ngdoc.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ngdoc.parameter.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ngdoc.private.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ngdoc.propertyOf.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ngdoc.requires.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ngdoc.return.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							],
+							[
+								671,
+								671
+							],
+							[
+								706,
+								706
+							],
+							[
+								737,
+								737
+							],
+							[
+								769,
+								769
+							],
+							[
+								810,
+								810
+							],
+							[
+								845,
+								845
+							],
+							[
+								874,
+								874
+							],
+							[
+								910,
+								910
+							],
+							[
+								941,
+								941
+							],
+							[
+								984,
+								984
+							],
+							[
+								1026,
+								1026
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 98.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "packages.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "ngdoc.description.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "ngdoc.element.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "ngdoc.function.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "ngdoc.methodOf.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								62
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"output.git-push":
+	{
+		"height": 124.0
+	},
+	"project": "ngdoc-snippets.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"carcomp",
+				"scenarios/car_competition/scenarios.txt"
+			],
+			[
+				"ioscar_compkes",
+				"tests/ios/car_competition/keywords.txt"
+			],
+			[
+				"_",
+				"_exec_local.sh"
+			],
+			[
+				"gen",
+				"tests/web/select_generation/keywords.txt"
+			],
+			[
+				"key",
+				"tests/web/select_productline/keywords.txt"
+			],
+			[
+				"scenlogi",
+				"scenarios/login/scenarios.txt"
+			],
+			[
+				"login",
+				"tests/web/login/keywords.txt"
+			],
+			[
+				"scen",
+				"scenarios/login/scenarios.txt"
+			],
+			[
+				"lo",
+				"app/scripts/controllers/login.js"
+			],
+			[
+				"002",
+				"test/robots/002.txt"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"model",
+				"app/views/modelLineChoice.html"
+			],
+			[
+				"brand",
+				"app/scripts/controllers/brandChoice.js"
+			],
+			[
+				"main",
+				"app/scripts/controllers/main.js"
+			],
+			[
+				"mode",
+				"app/styles/modelLineChoice.css"
+			],
+			[
+				"modell",
+				"app/views/modelLineChoice.html"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"ang",
+				"app/bower_components/angular/angular.js"
+			],
+			[
+				"conf",
+				"app/scripts/config.js"
+			],
+			[
+				"bra",
+				"app/scripts/controllers/brandChoice.js"
+			],
+			[
+				"api.html",
+				"app/views/api.html"
+			],
+			[
+				"main.",
+				".tmp/styles/main.css"
+			],
+			[
+				"api",
+				".tmp/styles/api.css"
+			],
+			[
+				"custom",
+				"css/customizable.css"
+			],
+			[
+				"start",
+				"css/start.css"
+			],
+			[
+				"eve",
+				"eventDetail.html"
+			],
+			[
+				"votin",
+				"css/voting.css"
+			],
+			[
+				"vo",
+				"voting1.html"
+			],
+			[
+				"refe",
+				"refereeDetail.html"
+			],
+			[
+				"page",
+				"css/pages.css"
+			],
+			[
+				"sch",
+				"script/api-schedule.js"
+			],
+			[
+				"ex",
+				"css/exhibitors.css"
+			],
+			[
+				"exhibi",
+				"exhibitorsDetail.html"
+			],
+			[
+				"pages.cs",
+				"css/pages.css"
+			],
+			[
+				"orei",
+				"script/orientation.js"
+			],
+			[
+				"exjs",
+				"script/api_exhibitors.js"
+			],
+			[
+				"inht",
+				"index.html"
+			],
+			[
+				"e",
+				"exhibitors.html"
+			],
+			[
+				"excss",
+				"css/exhibitors.css"
+			],
+			[
+				"apiex",
+				"script/api_exhibitorsDetail.js"
+			],
+			[
+				"fo",
+				"css/font_roboto.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ro",
+				"css/font_roboto.css"
+			],
+			[
+				"fon",
+				"css/font_roboto.css"
+			],
+			[
+				"font",
+				"css/font_roboto.css"
+			],
+			[
+				"note",
+				"note.html"
+			],
+			[
+				"curren",
+				"script/api_currentevents.js"
+			],
+			[
+				"cu",
+				"css/currentevents.css"
+			],
+			[
+				"current",
+				"css/currentevents.css"
+			],
+			[
+				"voting",
+				"voting.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"rob",
+				"~/GIT/bmwtax-web/nbproject/bmwtax.sublime-workspace"
+			],
+			[
+				"",
+				"~/GIT/bmwtax-web/_sublime/bmwtax-web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
