@@ -2,7 +2,7 @@
     <content><![CDATA[
 @methodOf ${0:angular.Module}
 ]]></content>
-    <tabTrigger>@met</tabTrigger>
+    <tabTrigger>$met</tabTrigger>
     <scope>source.js</scope>
     <description>$ngdoc - @methodOf</description>
 </snippet>

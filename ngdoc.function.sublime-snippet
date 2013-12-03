@@ -2,7 +2,7 @@
     <content><![CDATA[
 @function
 ]]></content>
-    <tabTrigger>@fun</tabTrigger>
+    <tabTrigger>$fun</tabTrigger>
     <scope>source.js</scope>
     <description>$ngdoc - @function</description>
 </snippet>

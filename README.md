@@ -9,7 +9,7 @@ Let DocBlockr create the documentation with `/**` » `[TAB]` and then add your n
 Snippets
 ========
 
-+ **`@ngd+`** adds a complete documentation stack of **@ngdoc**-comment
++ **`$ngd+`** adds a complete documentation stack of **@ngdoc**-comment
 
     ```js
     $ngdoc {...}  
@@ -24,14 +24,14 @@ Snippets
     @param {type}
     @return {type}
     ```
-+ **`@des`** adds **@description**
-+ **`@ele`** adds **@element**
-+ **`@fun`** adds **@function**
-+ **`@met`** adds **@methodOf** {method}
-+ **`@nam`** adds **@name** {name}
-+ **`@ngd`** adds **@ngdoc**
-+ **`@par`** adds **@param** {type}
-+ **`@pri`** adds **@private**
-+ **`@pro`** adds **@propertyOf** {method}
-+ **`@req`** adds **@requires** {service}
-+ **`@ret`** adds **@return** {type}
++ **`$des`** adds **@description**
++ **`$ele`** adds **@element**
++ **`$fun`** adds **@function**
++ **`$met`** adds **@methodOf** {method}
++ **`$nam`** adds **@name** {name}
++ **`$ngd`** adds **@ngdoc**
++ **`$par`** adds **@param** {type}
++ **`$pri`** adds **@private**
++ **`$pro`** adds **@propertyOf** {method}
++ **`$req`** adds **@requires** {service}
++ **`$ret`** adds **@return** {type}

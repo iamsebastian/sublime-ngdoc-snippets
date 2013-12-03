@@ -2,7 +2,7 @@
     <content><![CDATA[
 @requires ${0:$service}
 ]]></content>
-    <tabTrigger>@req</tabTrigger>
+    <tabTrigger>$req</tabTrigger>
     <scope>source.js</scope>
     <description>$ngdoc - @requires</description>
 </snippet>

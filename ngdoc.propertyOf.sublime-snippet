@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-@requires ${0:$service}
+@propertyOf ${0:angular.Module}
 ]]></content>
-    <tabTrigger>@req</tabTrigger>
+    <tabTrigger>$pro</tabTrigger>
     <scope>source.js</scope>
-    <description>$ngdoc - @requires</description>
+    <description>$ngdoc - @propertyOf</description>
 </snippet>

@@ -2,7 +2,7 @@
     <content><![CDATA[
 @description
 ]]></content>
-    <tabTrigger>@des</tabTrigger>
+    <tabTrigger>$des</tabTrigger>
     <scope>source.js</scope>
     <description>$ngdoc - @description</description>
 </snippet>

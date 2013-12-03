@@ -2,7 +2,7 @@
     <content><![CDATA[
 @name ${1:module.method:attribute|AUTO|AUTO.$ngservice:$method}
 ]]></content>
-    <tabTrigger>@fun</tabTrigger>
+    <tabTrigger>$nam</tabTrigger>
     <scope>source.js</scope>
     <description>$ngdoc - @name</description>
 </snippet>

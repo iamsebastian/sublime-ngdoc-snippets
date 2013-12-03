@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-@element ANY
+@private
 ]]></content>
-    <tabTrigger>@ele</tabTrigger>
+    <tabTrigger>$pri</tabTrigger>
     <scope>source.js</scope>
-    <description>$ngdoc - @element</description>
+    <description>$ngdoc - @private</description>
 </snippet>

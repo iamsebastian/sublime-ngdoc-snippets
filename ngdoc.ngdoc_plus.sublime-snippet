@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-* $ngdoc ${0:directive|filter|function|overview|method|property|service}
+\$ngdoc ${0:directive|filter|function|overview|method|property|service}
 * @name ${1:module.method:attribute|AUTO|AUTO.$ngservice:$method}
 *
 * ${2:@requires $service($log,...)}
@@ -19,7 +19,7 @@
 *
 * ${12:@return {${13:type}}}
 ]]></content>
-    <tabTrigger>@ngd+</tabTrigger>
+    <tabTrigger>$ngd+</tabTrigger>
     <scope>source.js</scope>
     <description>$ngdoc - initiating complete skeleton with all @ngdoc-properties</description>
 </snippet>

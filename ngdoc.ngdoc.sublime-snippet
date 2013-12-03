@@ -2,7 +2,7 @@
     <content><![CDATA[
 @ngdoc
 ]]></content>
-    <tabTrigger>@ngd</tabTrigger>
+    <tabTrigger>$ngd</tabTrigger>
     <scope>source.js</scope>
     <description>$ngdoc - @ngdoc</description>
 </snippet>

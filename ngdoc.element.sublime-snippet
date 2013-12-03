@@ -2,7 +2,7 @@
     <content><![CDATA[
 @element ${0:ANY}
 ]]></content>
-    <tabTrigger>@ele</tabTrigger>
+    <tabTrigger>$ele</tabTrigger>
     <scope>source.js</scope>
     <description>$ngdoc - @element</description>
 </snippet>
