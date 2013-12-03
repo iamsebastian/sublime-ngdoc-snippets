@@ -1,0 +1,18 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "ngdoc snippets",
+            "description": "A small collection of snippets for creating some angular related documentation.",
+            "author": "Sebastian Blei (iamsebastian)",
+            "homepage": "http://www.blei.in",
+            "details": "https://github.com/iamsebastian/sublime-ngdoc-snippets",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/iamsebastian/sublime-ngdoc-snippets"
+                }
+            ]
+        }
+    ]
+}
