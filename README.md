@@ -6,6 +6,8 @@ Just a small collection of snippets for creating an Angular/*ngdoc* related docu
 You should use it in combination with [DocBlockr](https://sublime.wbond.net/packages/DocBlockr), to get a nice workflow.
 Let DocBlockr create the documentation with `/**` » `[TAB]` and then add your ngdoc snippets.
 
+See the official Angular wiki for notes about writing Angular related docs: [Writing AngularJS Documentation](https://github.com/angular/angular.js/wiki/Writing-AngularJS-Documentation).
+
 Snippets
 ========
 
