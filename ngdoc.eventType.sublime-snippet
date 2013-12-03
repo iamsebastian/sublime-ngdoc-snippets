@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@eventType ${0:emit|broadcast}
+]]></content>
+    <tabTrigger>$eve</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @eventType</description>
+</snippet>

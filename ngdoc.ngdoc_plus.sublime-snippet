@@ -1,23 +1,20 @@
 <snippet>
     <content><![CDATA[
-\$ngdoc ${0:directive|filter|function|overview|method|property|service}
+\$ngdoc ${0:overview|interface(|service|object(|function|method|property|event))|directive|filter|inputType|error|parameters|returns|this|directiveInfo}
 * @name ${1:module.method:attribute|AUTO|AUTO.$ngservice:$method}
+* ${2:@deprecated}
+* ${3:@scope}
+* ${4:@eventType emit|broadcast}
+* ${5:@link}
 *
-* ${2:@requires $service($log,...)}
-*
-* ${3:@propertyOf ${4:angular.Module}}
-*
-* ${5:@methodOf ${6:angular.Module|AUTO.$method}}
-* 
-* ${7:@function}
-*
-* ${8:@element ANY}
-*
-* ${9:@description}
-*
-* ${10:@param {${11:type}}}
-*
-* ${12:@return {${13:type}}}
+* ${6:@requires $service($log,...)}
+* ${7:@propertyOf ${8:angular.Module}}
+* ${9:@methodOf ${10:angular.Module|AUTO.$method}}
+* ${11:@function}
+* ${12:@element ANY}
+* ${13:@description}
+* ${14:@param {${15:type}} name description}
+* ${16:@returns {${17:type}} description}
 ]]></content>
     <tabTrigger>$ngd+</tabTrigger>
     <scope>source.js</scope>

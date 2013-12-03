@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@link
+]]></content>
+    <tabTrigger>$lin</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @link</description>
+</snippet>

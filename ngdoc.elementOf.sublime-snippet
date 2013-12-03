@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@elementOf ${0:angular.Module}
+]]></content>
+    <tabTrigger>$eof</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @elementOf</description>
+</snippet>

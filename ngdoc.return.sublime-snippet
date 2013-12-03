@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-@return {${0:type}}
+@returns {${0:type}} description
 ]]></content>
     <tabTrigger>$ret</tabTrigger>
     <scope>source.js</scope>
-    <description>$ngdoc - @return</description>
+    <description>$ngdoc - @returns</description>
 </snippet>

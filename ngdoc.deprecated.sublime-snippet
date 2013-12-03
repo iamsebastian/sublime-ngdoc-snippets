@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@deprecated
+]]></content>
+    <tabTrigger>$dep</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @deprecated</description>
+</snippet>

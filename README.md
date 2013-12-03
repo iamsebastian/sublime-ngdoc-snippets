@@ -15,18 +15,28 @@ Snippets
     $ngdoc {...}  
 
     @name {name}  
+
+    @deprecated
+    @scope
+    @eventType emit|broadcast
+    @link
     @requires {service}  
     @propertyOf {method}  
     @methodOf {method}  
     @function  
     @element
+    @elementOf {type}
     @description
     @param {type}
-    @return {type}
+    @returns {type}
     ```
++ **`$dep`** adds **@deprecated**
 + **`$des`** adds **@description**
 + **`$ele`** adds **@element**
++ **`$eof`** adds **@elementOf** {type}
++ **`$eve`** adds **@eventType** emit|broadcast
 + **`$fun`** adds **@function**
++ **`$lin`** adds **@link**
 + **`$met`** adds **@methodOf** {method}
 + **`$nam`** adds **@name** {name}
 + **`$ngd`** adds **@ngdoc**
@@ -34,4 +44,6 @@ Snippets
 + **`$pri`** adds **@private**
 + **`$pro`** adds **@propertyOf** {method}
 + **`$req`** adds **@requires** {service}
-+ **`$ret`** adds **@return** {type}
++ **`$ret`** adds **@returns** {type}
++ **`$sco`** adds **@scope**
++ **`$thi`** adds **@this**

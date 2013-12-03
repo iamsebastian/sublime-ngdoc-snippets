@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@scope
+]]></content>
+    <tabTrigger>$sco</tabTrigger>
+    <scope>source.js</scope>
+    <description>$ngdoc - @scope</description>
+</snippet>

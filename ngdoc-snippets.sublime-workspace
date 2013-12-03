@@ -625,6 +625,7 @@
 	},
 	"file_history":
 	[
+		"/Users/sblei/Projects/sublime-ngdoc-snippets/.gitignore",
 		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/Robot Framework/Default (OSX).sublime-mousemap",
 		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/sblei/Library/Application Support/Sublime Text 3/Packages/Robot Framework/Default (OSX).sublime-keymap",
@@ -751,8 +752,7 @@
 		"/Users/sblei/GIT/mea/Gruntfile.js",
 		"/Users/sblei/GIT/mea/voting4.html",
 		"/Users/sblei/GIT/mea/voting3.html",
-		"/Users/sblei/GIT/mea/voting2.html",
-		"/Users/sblei/GIT/mea/voting1.html"
+		"/Users/sblei/GIT/mea/voting2.html"
 	],
 	"find":
 	{
@@ -1618,8 +1618,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								612,
+								612
 							]
 						],
 						"settings":

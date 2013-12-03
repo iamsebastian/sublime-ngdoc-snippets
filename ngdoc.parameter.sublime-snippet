@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@param {${0:type}}
+@param {${0:type}} ${1:name} ${2:description}
 ]]></content>
     <tabTrigger>$par</tabTrigger>
     <scope>source.js</scope>
