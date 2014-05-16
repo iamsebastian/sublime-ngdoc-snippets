@@ -3,6 +3,6 @@
 @ngdoc ${0:overview|interface(|service|object(|function|method|property|event))|directive|filter|inputType|error|parameters|returns|this|directiveInfo}
 ]]></content>
     <tabTrigger>$ngd</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @ngdoc</description>
 </snippet>

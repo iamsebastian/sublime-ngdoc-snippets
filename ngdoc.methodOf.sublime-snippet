@@ -3,6 +3,6 @@
 @methodOf ${0:angular.Module}
 ]]></content>
     <tabTrigger>$met</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @methodOf</description>
 </snippet>

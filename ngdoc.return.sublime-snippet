@@ -3,6 +3,6 @@
 @returns {${0:type}} description
 ]]></content>
     <tabTrigger>$ret</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @returns</description>
 </snippet>

@@ -3,6 +3,6 @@
 @eventType ${0:emit|broadcast}
 ]]></content>
     <tabTrigger>$eve</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @eventType</description>
 </snippet>

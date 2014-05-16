@@ -3,6 +3,6 @@
 @elementOf ${0:angular.Module}
 ]]></content>
     <tabTrigger>$eof</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @elementOf</description>
 </snippet>
