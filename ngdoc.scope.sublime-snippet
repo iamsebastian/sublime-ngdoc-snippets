@@ -3,6 +3,6 @@
 @scope
 ]]></content>
     <tabTrigger>$sco</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @scope</description>
 </snippet>

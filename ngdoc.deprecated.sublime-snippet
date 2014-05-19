@@ -3,6 +3,6 @@
 @deprecated
 ]]></content>
     <tabTrigger>$dep</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @deprecated</description>
 </snippet>

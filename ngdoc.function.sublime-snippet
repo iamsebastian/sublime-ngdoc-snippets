@@ -3,6 +3,6 @@
 @function
 ]]></content>
     <tabTrigger>$fun</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @function</description>
 </snippet>

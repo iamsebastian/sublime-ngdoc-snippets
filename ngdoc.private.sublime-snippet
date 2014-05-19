@@ -3,6 +3,6 @@
 @private
 ]]></content>
     <tabTrigger>$pri</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @private</description>
 </snippet>

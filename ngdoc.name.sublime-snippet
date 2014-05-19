@@ -3,6 +3,6 @@
 @name ${1:module.method:attribute|AUTO|AUTO.$ngservice:$method}
 ]]></content>
     <tabTrigger>$nam</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @name</description>
 </snippet>

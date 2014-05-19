@@ -3,6 +3,6 @@
 @link
 ]]></content>
     <tabTrigger>$lin</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @link</description>
 </snippet>

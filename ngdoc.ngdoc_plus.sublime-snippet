@@ -17,6 +17,6 @@
 * ${16:@returns {${17:type}} description}
 ]]></content>
     <tabTrigger>$ngd+</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - initiating complete skeleton with all @ngdoc-properties</description>
 </snippet>

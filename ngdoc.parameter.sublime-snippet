@@ -3,6 +3,6 @@
 @param {${0:type}} ${1:name} ${2:description}
 ]]></content>
     <tabTrigger>$par</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @parameter</description>
 </snippet>

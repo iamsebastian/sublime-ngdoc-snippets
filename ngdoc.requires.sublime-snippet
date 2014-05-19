@@ -3,6 +3,6 @@
 @requires ${0:$service}
 ]]></content>
     <tabTrigger>$req</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @requires</description>
 </snippet>

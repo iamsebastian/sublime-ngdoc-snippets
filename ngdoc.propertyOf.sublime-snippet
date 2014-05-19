@@ -3,6 +3,6 @@
 @propertyOf ${0:angular.Module}
 ]]></content>
     <tabTrigger>$pro</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @propertyOf</description>
 </snippet>

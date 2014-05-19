@@ -3,6 +3,6 @@
 @element ${0:ANY}
 ]]></content>
     <tabTrigger>$ele</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.coffee</scope>
     <description>$ngdoc - @element</description>
 </snippet>
